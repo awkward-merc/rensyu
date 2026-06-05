@@ -8,4 +8,3 @@ print('C:\test')
 print('------\n')
 print('C:\\test')
 
-#
