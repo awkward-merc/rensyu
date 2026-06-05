@@ -9,4 +9,4 @@ print(r"C:\test")
 print('------\n')
 print(r"C:\\test")
 print('------\n')
-# print(r"C:\test\") #エラー
+# print(r"C:\test\") #エラー aa
